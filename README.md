@@ -10,12 +10,12 @@ Building on Hydro? Come chat with our team on our [Hydro Relayer Slack Channel](
 
 ***
 
-# Hydro Augur Scaffold
+# StormSurance Hydro Augur Scaffold
 
 This repository will guide you through setting up your own Hydro-Augur Relayer on the Ethereum blockchain. When you finish the steps outlined in this guide, you will have:
 
 - Setup a fully functioning prediction market on your local server
-- Leveraged Hydro Protocol and Augur smart contracts on Ethereum to securely manage a prediction market (PM)
+- Leveraged StormSurance Hydro Protocol and Augur smart contracts on Ethereum to securely manage a prediction market (PM)
 - Traded some predictions on your Hydro PM
 - Learned how to customize your PM
 
@@ -33,13 +33,13 @@ If you don't already have them installed, you can follow [this link](https://doc
 
 1.  **Clone this repo**
 
-        git clone https://github.com/hydroprotocol/hydro-augur-scaffold
+        git clone https://github.com/DeFi-Coder-News-Letter/stormsurance-hydro-augur-scaffold
 
 1.  **Change working dir**
 
-        cd hydro-augur-scaffold
+        cd storms*
 
-1.  **Build and launch your hydro prediction market**
+1.  **Build and launch your stormsurance hydro prediction market**
 
         docker-compose up --build -d
 
