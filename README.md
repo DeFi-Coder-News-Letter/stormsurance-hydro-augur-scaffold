@@ -2,7 +2,7 @@
 
 ***
 
-[Hydro Protocol](https://hydroprotocol.io) is an open source framework for building decentralized exchanges and other DeFi projects.
+[StormSurance Hydro Protocol](https://hydroprotocol.io) is a fork of HydroProtocol, an open source framework for building decentralized exchanges and other DeFi projects.
 
 More detailed information can be found in our [developer documentation](https://developer.hydroprotocol.io/docs/overview/getting-started.html).
 
